@@ -1,4 +1,4 @@
-package com.mycompany.puntodeventa; //Comentario de prueba
+package com.mycompany.puntodeventa; //Comentario de prueba 2
 
 public class PuntoDeVenta {
 
