@@ -1,4 +1,4 @@
-package com.mycompany.puntodeventa; //Comentario de prueba 2
+package com.mycompany.puntodeventa;
 
 public class PuntoDeVenta {
 
@@ -6,3 +6,4 @@ public class PuntoDeVenta {
         System.out.println("Hello World!");
     }
 }
+//Si
