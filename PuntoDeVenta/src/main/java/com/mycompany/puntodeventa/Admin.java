@@ -1,13 +1,22 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.puntodeventa;
 
-/**
- *
- * @author diego
- */
 public class Admin extends Usuario{
+
+    //Constructor
+    public Admin(String nombre,String contraseña, String correo, String telefono, int id){
+        super(nombre, contraseña, correo, telefono, id);
+    }
     
+    //Metodos
+    public void altaProducto(){
+    }
+
+    public void consultarInventario(){
+    }
+
+    public void bajaProducto(){
+    }
+    
+    public void actualizarExistencia(){
+    }
 }
